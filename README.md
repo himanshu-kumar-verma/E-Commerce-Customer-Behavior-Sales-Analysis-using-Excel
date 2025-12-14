@@ -1,5 +1,16 @@
 # 📊 E-Commerce Customer & Sales Analysis Dashboard
 
+**Internship Project at:** Alfido Tech.  
+**Role:** Data Analyst Intern  
+**Duration:** 1 Month
+
+## 🏢 Project Context
+
+- This project was completed as part of a **Data Analyst Internship** at **Alfido Tech**
+- The analysis and dashboard were developed for learning and internal evaluation purposes.
+- All insights and visualizations were created by the author using publicly available data.
+
+
 ## 🎯 Brief Summary
 Analysis of e-commerce customer and sales data to identify revenue trends, customer behavior, churn, and product performance using Excel dashboards and pivot tables.
 
@@ -90,9 +101,9 @@ Analysis of e-commerce customer and sales data to identify revenue trends, custo
 - Automate data updates using Power Query or SQL.
 
 
-## 👤 Author & Contact
-- **Author:** Himanshu Kumar Verma 
-- **Background:** Pharmacy Background | Data Analytics / Business Analytics
-- **Contact:**  
-  - LinkedIn: https://www.linkedin.com/in/himanshu-kumar-verma2003
-  - Email: himanshukumarverma719@gmail.com
+## 👤 Author & Internship Details
+
+**Himanshu Kumar Verma**  
+Data Analyst Intern – Alfido Tech 
+- Email: himanshukumarverma719@gmail.com
+- LinkedIn: https://www.linkedin.com/in/himanshu-kumar-verma2003
