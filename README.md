@@ -95,3 +95,4 @@ Analysis of e-commerce customer and sales data to identify revenue trends, custo
 - **Background:** Pharmacy Background | Data Analytics / Business Analytics
 - **Contact:**  
   - LinkedIn: https://www.linkedin.com/in/himanshu-kumar-verma2003
+  - Email: himanshukumarverma719@gmail.com
